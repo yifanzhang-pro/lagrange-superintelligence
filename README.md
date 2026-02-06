@@ -10,7 +10,7 @@ To transcend the thermodynamic saturation of terrestrial infrastructure, we prop
 
 This architecture circumvents the station-keeping costs of unstable orbits, establishing a scalable off-world framework for low-latency inference and massive-scale foundation model training.
 
-Details can be found in https://yifanzhang-pro.github.io/lagrange-superintelligence/Lagrange_Superintelligence.pdf
+Details can be found in [Lagrange_Superintelligence.pdf](https://yifanzhang-pro.github.io/lagrange-superintelligence/Lagrange_Superintelligence.pdf) 
 
 ## Citation
 
